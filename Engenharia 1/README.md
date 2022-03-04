@@ -1,4 +1,5 @@
 Exerício 1 - Engenharia de Software I - FATEC Prof Jessen Vidal
+
 Desenvolvimento de diagramas da parte funcional e não funcional de tal software, usando como modelo o Microsoft Teams e aplicando heurísticas de interface do usuário
 referência: https://www.nngroup.com/articles/ten-usability-heuristics/
 
