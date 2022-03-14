@@ -1,10 +1,9 @@
-# Exerício 1 - Engenharia de Software I
-## <p align=center>Desenvolvimento de diagramas da parte funcional e não funcional de um software, usando como modelo o Microsoft Teams e aplicando heurísticas de interface do usuário</p>
+# <p align=center>Exerício 1 - Engenharia de Software I</p>
+### <p align=center>Desenvolvimento de diagramas da parte funcional e não funcional de um software, usando como modelo o Microsoft Teams e aplicando heurísticas de interface do usuário.</p>
 
-## <p style="font-size: 20px"> Funcional <br><br> ![Funcional](https://user-images.githubusercontent.com/90328897/156756719-32f7c916-8782-4440-8ec6-4f08b403f3b0.jpg)
+## <p align=center> Funcional <br><br>![diagramas-Funcional drawio](https://user-images.githubusercontent.com/90328897/158244861-bc685159-c98e-4d7d-af50-b5b4fe1b7d86.png) </p>
 
-## Não funcional <br> <br> ![Não Funcional](https://user-images.githubusercontent.com/90328897/156756743-3ebe450b-e7b3-4807-bdfd-276ce369debd.jpg)
-  
-Arquivo editável <br> <p style="font-size: 5px">https://drive.google.com/file/d/1k7PfiXRfgJRBF9VhpmdQ7WIV2mPhf829/view?usp=sharing</p>
-![Diagramas-Diagrama de classes drawio](https://user-images.githubusercontent.com/90328897/157859887-37eac3c9-9cd8-4eba-9db7-1c56f581a084.png)
-<hr>
+
+## <p align=center> Não Funcional <br> <br>![diagramas-Não-funcional drawio](https://user-images.githubusercontent.com/90328897/158247691-84bb220f-6287-43aa-9165-b5684ec0cdf3.png) </p>
+
+## <p align=center> Diagrama de Classes <br> <br> ![diagramas-Diagrama de classes drawio](https://user-images.githubusercontent.com/90328897/158248454-4bc6f2ac-8490-4ebc-986c-128dcc914ce6.png) </p>
