@@ -1,5 +1,5 @@
 # Analisando sites com Critérios de Interação
-#### Analisando o site <a href="https://udemy.com">Udemy</a> <br> Fonte: <a href="https://https://www.w3.org/WAI/WCAG21/quickref/">How to Meet WCAG</a>
+#### Analisando o site <a href="https://udemy.com">Udemy</a> <br> Fonte: <a href="https://www.w3.org/WAI/WCAG21/quickref/">How to Meet WCAG</a>
 
 ## Heurística 1.4.1 - Uso de cores (Use of color)
 O critério é a respeito do uso de cores dentro do site. Além da estética utilizando a paleta de cores correta em relação à marca, deve-se atentar também ao contraste dos elementos dentro da interface, onde não fica só estéticamente mais bonito como também ajuda usuários daltônicos ou com problemas de visão referente a cor devido 
