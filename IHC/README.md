@@ -38,4 +38,16 @@ Com o intuito de guiar o usuário que está navegando o site pelo teclado, é im
 <p align='center'><img src='https://user-images.githubusercontent.com/90328897/203683354-f0ecc06e-b51e-425a-a41b-1091f55dd5a0.png' /></p>
 <p align="center">Fonte: Autoria própria</p>
 
+## Heurística 3.1.3 - Palavras fora do comum (Unusual words)
+Ás vezes, dependendo do conteúdo do site, pode haver palavras não amplamente conhecidas. A heurística indica a necessidade de haver algum indicador explicando essas palavras. Um ótimo exemplo é o próprio Wikipédia, onde certas palavras levam para outros artigos que explicam essa própria palavra
 
+<p align='center'>Site da wikipédia, com um pop-up explicando a palavra em questão. A palavra também é clicável, levando ao próprio artigo.</p>
+<p align='center'><img src='https://user-images.githubusercontent.com/90328897/203757477-34b1bb65-8c09-48a6-866c-ddeace9815aa.png' /></p>
+<p align="center">Fonte: Autoria própria</p>
+
+## Heurística 3.3.1 - Identificação de erro (Error identification)
+A identificação do erro é importante para o usuário se guiar e muitas vezes resolver o próprio problema ou compreender que é um erro interno, como o servidor. Um exemplo de aplicação desta heurística é o erro de login, quando o usuário tenta acessar uma conta que não existe ou colocou a senha errada. Um site que aplicou esta heurística foi o Clube da Medalha, indicando o erro de e-mail inválido
+
+<p align='center'>Site do Clube da medalha, indicando erro de e-mail inválido</p>
+<p align='center'><img src='https://user-images.githubusercontent.com/90328897/203759121-bccaaca3-37dd-443b-b729-3066d81e1bba.png' /></p>
+<p align="center">Fonte: Autoria própria</p>
