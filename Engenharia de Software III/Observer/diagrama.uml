@@ -1,0 +1,24 @@
+@startuml
+
+interface Observer {
+  + update(String message)
+}
+
+class User {
+  - name: String
+  + User(String name)
+  + update(String message)
+}
+
+class Publisher {
+  - subscribers: List<Observer>
+  + subscribe(Observer observer)
+  + unsubscribe(Observer observer)
+  + publish(String message)
+  - notifySubscribers(String message)
+}
+
+Observer <|.. User
+Publisher --> Observer
+
+@enduml
