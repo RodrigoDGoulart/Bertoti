@@ -1,2 +1,3 @@
 ## Design pattern: Strategy
-![design-strategy-estrategia 2 ](https://github.com/RodrigoDGoulart/Bertoti/assets/90328897/6dff1444-608c-4569-951b-b7fc8079e534)
+
+![strategy2](https://github.com/RodrigoDGoulart/Bertoti/assets/90328897/b3d5414b-e422-4a2b-814b-049c1191b9c5)

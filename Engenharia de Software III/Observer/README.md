@@ -1,2 +1,3 @@
 ## Design pattern: Observer
-![observer](https://github.com/RodrigoDGoulart/Bertoti/assets/90328897/d65411aa-e493-4aa3-b3e6-36b261b58464)
+
+![observer-atualizado](https://github.com/RodrigoDGoulart/Bertoti/assets/90328897/de37dfa1-2742-404b-9b37-29c00e83dd78)
